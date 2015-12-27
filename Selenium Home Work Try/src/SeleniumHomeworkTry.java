@@ -12,6 +12,7 @@ public class SeleniumHomeworkTry {
 		f.findElement(By.id("OpenLoginPopup")).click();
 		f.findElement(By.id(".//*[@id='categoryHeader']/a")).click();
 		f.findElement(By.xpath("//input[@id='firstName']")).sendKeys("tasmiah");
+		System.out.println("git");
 		
 		
 	
