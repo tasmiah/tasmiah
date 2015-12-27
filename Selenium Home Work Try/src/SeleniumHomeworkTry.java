@@ -13,7 +13,7 @@ public class SeleniumHomeworkTry {
 		f.findElement(By.id(".//*[@id='categoryHeader']/a")).click();
 		f.findElement(By.xpath("//input[@id='firstName']")).sendKeys("tasmiah");
 		System.out.println("git");
-		
+		System.out.println("new git");
 		
 	
 		
